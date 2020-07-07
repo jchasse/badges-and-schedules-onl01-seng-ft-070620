@@ -27,7 +27,7 @@ def printer(array)
   badge_array.each do |printout|
     puts printout
   end
-  
+
   rooms_array.each do |printout|
     puts printout
   end
